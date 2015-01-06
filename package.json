@@ -1,0 +1,15 @@
+{
+	"name": "express-base",
+	"version": "0.0.1",
+	"main": "express-base.js",
+  "author": { "name": "https://github.com/rayie" },
+  "license": "MIT",
+  "keywords": [
+    "express",
+  ],
+  "repository": "rayie/express-base",
+  "description": "an express per-request biz-logic base handler to ineherit from",
+	"dependencies": {
+		"rie-utility": "rayie/rie-utility"
+	}
+}
