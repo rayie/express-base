@@ -5,7 +5,7 @@
   "author": { "name": "https://github.com/rayie" },
   "license": "MIT",
   "keywords": [
-    "express",
+    "express"
   ],
   "repository": "rayie/express-base",
   "description": "an express per-request biz-logic base handler to ineherit from",
